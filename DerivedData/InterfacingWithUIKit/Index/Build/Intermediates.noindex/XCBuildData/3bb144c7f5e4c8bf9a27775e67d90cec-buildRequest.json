@@ -1,0 +1,62 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "980d4c20a2776c64806235774b8b1f719624b351c65cd84bbb2ba9e8beaf66f8"
+    }
+  ],
+  "containerPath" : "/Users/Andy/Onshape/Landmarks/InterfacingWithUIKit.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Andy/Onshape/Landmarks/DerivedData/InterfacingWithUIKit/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/Andy/Onshape/Landmarks/DerivedData/InterfacingWithUIKit/Index/Build/Products",
+      "derivedDataPath" : "/Users/Andy/Onshape/Landmarks/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Andy/Onshape/Landmarks/DerivedData/InterfacingWithUIKit/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Andy/Onshape/Landmarks/DerivedData/InterfacingWithUIKit/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/Andy/Onshape/Landmarks/DerivedData/InterfacingWithUIKit/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/Andy/Onshape/Landmarks/DerivedData/InterfacingWithUIKit/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
